@@ -18,12 +18,9 @@ I was tasked with automating the mapping of sand dunes using high-resolution mul
 
 Beyond remote sensing, I am deeply invested in the engineering challenges of **Generative AI** and **3D Vision**:
 
-* **Spark-arXiv (Scalable RAG):** I am architecting an end-to-end RAG system that uses **Apache Spark** to ingest and process over 87,000 research papers. This project simulates an enterprise data lake, using **FAISS** for vector search and a fine-tuned **Mistral-7B** model to create an intelligent research assistant.
-* **GANomaly-3D:** I am developing unsupervised anomaly detection pipelines for 3D volumetric CT scans. By leveraging **GANs (Generative Adversarial Networks)**, I am working to identify internal material defects for industrial Non-Destructive Testing (NDT).
-
 ### 🔬 Research Focus
 
-I maintain an active research interest in Deep learning , cmputer vision and quantum computing, and have a research paper selected for ADCIS 2025 on post qunautm cryptography while also having been the finalist in terrier cyberquest- a national cybersecurity level hackathon.
+I maintain an active research interest in Deep learning , computer vision and quantum computing, and have a research paper selected for ADCIS 2025 on post qunautm cryptography while also having been the finalist in terrier cyberquest- a national cybersecurity level hackathon.
 
 ---
 
