@@ -1,29 +1,26 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E91E6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Akshit+Singh;Computer+Vision+Researcher;Data+Science+%26+NLP;Ex-ISRO+Research+Intern" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkshitSingh7&style=flat-square&color=blue" alt=""/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2E91E6&center=true&vCenter=true&width=600&lines=Akshit+Singh" alt="Typing SVG" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me & Work Experience
 
-I am a **Computer Science Senior** at **Manipal University Jaipur** and a Deep Learning practitioner. My work focuses on building robust systems in **Computer Vision** and **NLP**, moving beyond isolated models to scalable deployment.
+[cite_start]I am a **Computer Science Senior** at **Manipal University Jaipur**[cite: 6, 7]. My technical focus is on bridging the gap between theoretical Deep Learning research and scalable, real-world systems.
 
-* 🔭 **Previously:** Research Intern at **ISRO (RRSC-West)**.
-* 🌱 **Focus:** Satellite Image Segmentation, RAG Pipelines, and Efficient LLM Fine-tuning.
+**Research Intern | [cite_start]ISRO: Regional Remote Sensing Centre (West)** [cite: 10, 11]
+My core expertise was honed during my internship at **ISRO**, where I focused on **Geospatial Deep Learning**. 
+* **The Mission:** I developed a deep learning pipeline to automate the **semantic segmentation of sand dunes** from high-resolution satellite imagery[cite: 20].
+* [cite_start]**The Tech:** This involved engineering custom data ingestion workflows using **GDAL** and **Rasterio**[cite: 20].
+* [cite_start]**The Research:** I conducted rigorous benchmarking of **U-Net** architectures against **Vision Transformers** to identify the optimal models for geological feature detection [cite: 21][cite_start], while also prototyping **Super-Resolution** models to enhance low-quality satellite data[cite: 22].
 
 ---
 
 ### ⚡ Research & Career Highlights
 
-Instead of just code, here is the impact of my work:
-
-* 📄 **Paper Under Review:** My research on *Automated Dune Segmentation using Deep Learning* (conducted at ISRO) is currently under review for publication in a high-impact scientific journal.
-* 🏆 **National Finalist:** Secured **Top 8 (out of 6600+ teams)** in the **Indian Army Terrier Cyberquest** for building a Hybrid Quantum Intrusion Detection System.
-* 📢 **Conference Acceptance:** Author of "A Proposed Framework for Post-Quantum Cryptography," accepted at **ADCIS 2025**.
+* [cite_start]📄 **Paper Under Review:** The methodology and findings from my ISRO research on *Automated Dune Segmentation* are currently under review for publication in a scientific journal[cite: 23].
+* 🏆 **National Finalist:** Secured **Top 8 (out of 6600+ teams)** in the **Indian Army Terrier Cyberquest** for engineering a hybrid Quantum Autoencoder + QSVM Intrusion Detection System[cite: 27, 28].
+* [cite_start]📢 **Conference Acceptance:** Author of "A Proposed Framework for Post-Quantum Cryptography," accepted at **ADCIS 2025**[cite: 25].
 
 ---
 
