@@ -6,21 +6,21 @@
 
 ### 👨‍💻 About Me & Work Experience
 
-[cite_start]I am a **Computer Science Senior** at **Manipal University Jaipur**[cite: 6, 7]. My technical focus is on bridging the gap between theoretical Deep Learning research and scalable, real-world systems.
+I am a **Computer Science Senior** at **Manipal University Jaipur**. My technical focus is on bridging the gap between theoretical Deep Learning research and scalable, real-world systems.
 
-**Research Intern | [cite_start]ISRO: Regional Remote Sensing Centre (West)** [cite: 10, 11]
+**Research Intern | ISRO: Regional Remote Sensing Centre (West)**
 My core expertise was honed during my internship at **ISRO**, where I focused on **Geospatial Deep Learning**. 
-* **The Mission:** I developed a deep learning pipeline to automate the **semantic segmentation of sand dunes** from high-resolution satellite imagery[cite: 20].
-* [cite_start]**The Tech:** This involved engineering custom data ingestion workflows using **GDAL** and **Rasterio**[cite: 20].
-* [cite_start]**The Research:** I conducted rigorous benchmarking of **U-Net** architectures against **Vision Transformers** to identify the optimal models for geological feature detection [cite: 21][cite_start], while also prototyping **Super-Resolution** models to enhance low-quality satellite data[cite: 22].
+* **The Mission:** I developed a deep learning pipeline to automate the **semantic segmentation of sand dunes** from high-resolution satellite imagery.
+* **The Tech:** This involved engineering custom data ingestion workflows using **GDAL** and **Rasterio**.
+* **The Research:** I conducted rigorous benchmarking of **U-Net** architectures against **Vision Transformers (ViT)** to identify the optimal models for geological feature detection, while also prototyping **Super-Resolution** models to enhance low-quality satellite data.
 
 ---
 
 ### ⚡ Research & Career Highlights
 
-* [cite_start]📄 **Paper Under Review:** The methodology and findings from my ISRO research on *Automated Dune Segmentation* are currently under review for publication in a scientific journal[cite: 23].
-* 🏆 **National Finalist:** Secured **Top 8 (out of 6600+ teams)** in the **Indian Army Terrier Cyberquest** for engineering a hybrid Quantum Autoencoder + QSVM Intrusion Detection System[cite: 27, 28].
-* [cite_start]📢 **Conference Acceptance:** Author of "A Proposed Framework for Post-Quantum Cryptography," accepted at **ADCIS 2025**[cite: 25].
+* 📄 **Paper Under Review:** The methodology and findings from my ISRO research on *Automated Dune Segmentation* are currently under review for publication in a scientific journal.
+* 🏆 **National Finalist:** Secured **Top 8 (out of 6600+ teams)** in the **Indian Army Terrier Cyberquest** for engineering a hybrid Quantum Autoencoder + QSVM Intrusion Detection System.
+* 📢 **Conference Acceptance:** Author of "A Proposed Framework for Post-Quantum Cryptography," accepted at **ADCIS 2025**.
 
 ---
 
