@@ -19,7 +19,7 @@ My core expertise was honed during my internship at **ISRO**, where I focused on
 ### ⚡ Research & Career Highlights
 
 * 📄 **Paper Under Review:** The methodology and findings from my ISRO research on *Automated Dune Segmentation* are currently under review for publication in a scientific journal.
-* 🏆 **National Finalist:** Secured **Top 8 (out of 6600+ teams)** in the **Indian Army Terrier Cyberquest** for engineering a hybrid Quantum Autoencoder + QSVM Intrusion Detection System.
+* 🏆 **National Finalist:** Secured **Top 8 (out of 6600+ teams)** in the **Indian Army Terrier Cyberquest** ( a national level datathon) for engineering a hybrid Quantum Autoencoder + QSVM Intrusion Detection System.
 * 📢 **Conference Acceptance:** Author of "A Proposed Framework for Post-Quantum Cryptography," accepted at **ADCIS 2025**.
 
 ---
