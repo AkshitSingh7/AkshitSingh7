@@ -38,9 +38,4 @@ Apache Spark (PySpark), Docker, Linux, Git, FAISS
 Deep Neural Networks, Satellite Image Processing, Generative AI (RAG), Quantum ML (PennyLane)
 
 ---
-
-<p align="left">
-  <b>Let's Connect:</b><br>
-  <a href="mailto:akshit707@gmail.com">akshit707@gmail.com</a> • 
-  <a href="https://www.linkedin.com/in/akshit-singh-860743312/">LinkedIn Profile</a>
 </p>
