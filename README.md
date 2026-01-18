@@ -9,7 +9,7 @@
 I am a **Computer Science Senior** at **Manipal University Jaipur**. My technical focus is on bridging the gap between theoretical Deep Learning research and scalable, real-world systems.
 
 **Research Intern | ISRO: Regional Remote Sensing Centre (West)**
-My core expertise was honed during my internship at **ISRO**, where I focused on **Geospatial Deep Learning**. 
+My core expertise was honed during my internship at **ISRO**, where I focused on **Geospatial Deep Learning**
 * **The Mission:** I developed a deep learning pipeline to automate the **semantic segmentation of sand dunes** from high-resolution satellite imagery.
 * **The Tech:** This involved engineering custom data ingestion workflows using **GDAL** and **Rasterio**.
 * **The Research:** I conducted rigorous benchmarking of **U-Net** architectures against **Vision Transformers (ViT)** to identify the optimal models for geological feature detection, while also prototyping **Super-Resolution** models to enhance low-quality satellite data.
