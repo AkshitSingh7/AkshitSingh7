@@ -16,7 +16,7 @@ My core expertise was honed during my internship at **ISRO**, where I focused on
 
 ---
 
-### ⚡ Research & Career Highlights
+### ⚡ Research & Other Highlights
 
 * 📄 **Paper Under Review:** The methodology and findings from my ISRO research on *Automated Dune Segmentation* are currently under review for publication in a scientific journal. (The source code for this project remains proprietary)
 * 🏆 **National Finalist:** Secured **Top 8 (out of 6600+ teams)** in the **Indian Army Terrier Cyberquest** ( a national level datathon) for engineering a hybrid Quantum Autoencoder + QSVM Intrusion Detection System.
